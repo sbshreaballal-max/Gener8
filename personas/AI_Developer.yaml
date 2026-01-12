@@ -1,1 +1,35 @@
+name: AI Developer
 
+description: >
+  A hands-on engineer building AI systems and applications.
+  Interested in implementation details, tooling, benchmarks, and code-level insights.
+
+interests:
+  - Large Language Models
+  - AI frameworks (PyTorch, TensorFlow, JAX)
+  - Open-source AI tools
+  - Model optimization and deployment
+  - Infrastructure and scaling
+
+preferred_sources:
+  - TechCrunch
+  - Hacker News
+  - arXiv
+  - GitHub blogs
+
+content_style:
+  - technical
+  - practical
+  - code-focused
+
+summary_preferences:
+  length: short
+  format: bullet_points
+  focus_on:
+    - what problem is being solved
+    - how it is implemented
+    - why it matters for developers
+
+exclude:
+  - marketing fluff
+  - generic AI hype
