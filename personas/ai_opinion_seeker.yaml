@@ -1,35 +1,34 @@
-name: AI Opinion Seeker
+persona:
+  name: AI Opinion Seeker
+  description: >
+    A reader interested in perspectives, debates, and societal
+    implications of AI rather than technical details.
 
-description: >
-  A reader interested in perspectives, debates, and implications of AI.
-  Cares about societal impact, ethics, regulation, and long-term effects.
+preferences:
+  topics:
+    - AI ethics
+    - regulation
+    - societal impact
+    - AI narratives
+    - future of work
 
-interests:
-  - AI ethics
-  - Regulation and policy
-  - Industry trends
-  - Thought leadership
-  - AI risks and opportunities
+  sources:
+    - TechCrunch
+    - Wired
+    - MIT Technology Review
 
-preferred_sources:
-  - TechCrunch
-  - Wired
-  - The Verge
-  - Opinion blogs
+  depth: conceptual
+  tone: reflective
+  summary_length: short
 
-content_style:
-  - narrative
-  - analytical
-  - opinionated
-
-summary_preferences:
-  length: medium
-  format: paragraphs
-  focus_on:
-    - key arguments
-    - differing viewpoints
-    - implications for society
-
-exclude:
-  - low-level implementation details
-  - code-heavy articles
+filters:
+  include_keywords:
+    - ethics
+    - impact
+    - regulation
+    - opinion
+    - future
+  exclude_keywords:
+    - API
+    - benchmark
+    - training loss
