@@ -28,6 +28,9 @@ filters:
     - regulation
     - opinion
     - future
+    - courtroom
+    - research
+    - trade
   exclude_keywords:
     - API
     - benchmark
