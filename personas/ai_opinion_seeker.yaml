@@ -1,8 +1,9 @@
 persona:
   name: AI Opinion Seeker
   description: >
-    A reader interested in perspectives, debates, and societal
-    implications of AI rather than technical details.
+   Interested in opinion pieces, expert commentary, and analysis on artificial intelligence,
+  including ethical debates, regulation, AI safety, societal impact, and contrasting viewpoints
+  from researchers, policymakers, and industry leaders. Less technical and more view based
 
 preferences:
   topics:
