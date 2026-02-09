@@ -1,10 +1,10 @@
 persona:
   name: AI Opinion Seeker
   description: 
-   Interested in opinion pieces, expert commentary, and analysis on artificial intelligence,
-  including ethical debates, regulation, AI safety, societal impact, and contrasting viewpoints
-  from researchers, policymakers, and industry leaders. Less technical and more view based
-
+    -Interested in opinion pieces, expert commentary, and analysis on artificial intelligence,
+    -including ethical debates, regulation, AI safety, societal impact, and contrasting viewpoints
+    -from researchers, policymakers, and industry leaders. Less technical and more view based
+   
 preferences:
   topics:
     - AI ethics
