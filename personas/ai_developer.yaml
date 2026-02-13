@@ -1,8 +1,7 @@
 persona:
   name: AI Developer
   description: >
-    A hands-on software engineer who builds AI systems
-    and wants practical, implementation-focused insights.
+    A software engineer who builds and deploys production-grade AI systems, works with LLMs, vector databases, and distributed systems, and prefers code-level architecture breakdowns, implementation patterns, and scalability trade-offs over industry news
 
 preferences:
   topics:
